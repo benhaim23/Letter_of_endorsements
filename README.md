@@ -1,7 +1,7 @@
 # Letter of Endorsements
 
 ## Overview
-This repository contains letters of endorsement for Mark Benhaim, showcasing the recommendations he has received from educators, colleagues, and industry professionals. These letters attest to Mark's skills, achievements, and potential in the fields of data science and cryptocurrency.
+This repository contains letters of endorsement for my work, showcasing the recommendations I've received from educators, colleagues, and industry professionals. These letters attest to my skills, achievements, and potential in the fields of data science and cryptocurrency.
 
 ## Featured Letter
 
